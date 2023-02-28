@@ -1,1 +1,1 @@
-# broadcast-with-gestures
+# IntelliStream Gesture Controller
